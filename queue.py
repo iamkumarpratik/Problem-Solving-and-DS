@@ -5,7 +5,7 @@
 
 # Enqueue adds an element to the queue.
 # Dequeue removes the element from the queue.
-# Peek returns the last element of the queue.
+# Peek returns the first element of the queue.
 
 class Queue:
 
